@@ -1,0 +1,14 @@
+{
+  "name": "shoes",
+  "version": "1.0.0",
+  "description": "Shoes css project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Becker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
